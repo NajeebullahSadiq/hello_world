@@ -17,3 +17,6 @@ add for the perpose of the automatic commit to the working directory;
 
 
 for the git remove from the staging area;
+
+
+will be added for the purpose of the unstaged someting
